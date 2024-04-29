@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/reveal-vite/',
+  base: '/reveal-vite/presentation/',
 });
